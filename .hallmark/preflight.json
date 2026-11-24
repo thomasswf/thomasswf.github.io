@@ -1,0 +1,36 @@
+{
+  "mode": "redesign",
+  "depth": "polish",
+  "scope": "site",
+  "genre": "editorial",
+  "preserved": [
+    "All routes and links",
+    "English, Japanese, and Traditional Chinese content",
+    "Existing personal photographs and captions",
+    "Career facts, dates, places, and current data-center hero",
+    "Dynamic copyright year and career-year calculation"
+  ],
+  "introduced": [
+    "Tokenized ink-and-paper palette",
+    "Editorial display typography",
+    "Hairline-led sections in place of repeated soft cards",
+    "Consistent focus-visible and reduced-motion behavior",
+    "Accessible skip links and image dimensions"
+  ],
+  "files": [
+    "styles.css",
+    "script.js",
+    "index.html",
+    "work.html",
+    "life.html",
+    "interests.html",
+    "ja/index.html",
+    "ja/work.html",
+    "ja/life.html",
+    "ja/interests.html",
+    "zh/index.html",
+    "zh/work.html",
+    "zh/life.html",
+    "zh/interests.html"
+  ]
+}
